@@ -1,11 +1,15 @@
 {
   "id": "ru.rj.vkagain",
   "name": "VKAgain",
-  "latestVersion": "4.0b10",
+  "latestVersion": "4.0b11",
   "repository": "ReJail Repo",
   "url": "https://rejail.ru/pack/vkagain",
   "author": "Networke",
   "versions": [
+    {
+      "version": "4.0b11",
+      "date": "18-06-2024",
+    },
     {
       "version": "4.0b10",
       "date": "16-05-2024",
